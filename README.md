@@ -1,1 +1,10 @@
-alert("I am hacking into all of your information.");
+<!DOCTYPEhtml>
+<html>
+  <head>
+    <h1>Random words</h1>
+  </head>
+  <body>
+    <p>Hello world</p>
+  </body>
+  </hmtl>
+
