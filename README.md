@@ -4,6 +4,6 @@
   </head>
   <body>
     <h1>Hello</h1>
-    <p>am i coding this right?</p>
+    <p>Give me money.</p>
   </body>
   </html>
